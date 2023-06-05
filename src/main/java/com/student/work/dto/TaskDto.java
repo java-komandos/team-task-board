@@ -1,4 +1,4 @@
-package com.student.work.dto.dto;
+package com.student.work.dto;
 
 
 import jakarta.validation.constraints.NotNull;
