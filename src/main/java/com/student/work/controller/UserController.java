@@ -1,6 +1,6 @@
 package com.student.work.controller;
 
-import com.student.work.work.dto.UserDto;
+import com.student.work.dto.UserDto;
 import com.student.work.entity.Task;
 import com.student.work.entity.User;
 import com.student.work.exception.TaskNotFoundException;
