@@ -1,7 +1,0 @@
-package com.student.work.dto;
-
-public class UserNotFoundException extends Exception{
-    public UserNotFoundException(String message) {
-        super(message);
-    }
-}

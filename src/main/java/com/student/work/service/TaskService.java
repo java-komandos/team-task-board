@@ -1,4 +1,4 @@
-package com.student.work.dto.service;
+package com.student.work.service;
 
 import com.student.work.entity.Task;
 import com.student.work.exception.TaskNotFoundException;
